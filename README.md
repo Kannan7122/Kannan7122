@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on an **ERP project** that aims to streamline business processes and improve efficiency.<br>I’m constantly learning new technologies and exploring innovations like **Django Rest Framework**, **React + Vite**, and **Tailwind CSS** to build modern, scalable applications.<br>My tech stack includes: **Python**, **Django**, **React**, **JavaScript**, **Tailwind CSS**, and **PostgreSQL**.<br>I love sharing knowledge and have experience in leading technical interview rounds.<br>Feel free to reach out: tkannan7122@example.com<br>
+I’m currently working on an **ERP project** that aims to streamline business processes and improve efficiency.<br>I’m constantly learning new technologies and exploring innovations like **Django Rest Framework**, **React + Vite**, and **Tailwind CSS** to build modern, scalable applications.<br>My tech stack includes: **Python**, **Django**, **React**, **JavaScript**, **Tailwind CSS**, and **PostgreSQL**.<br>I love sharing knowledge and have experience in leading technical interview rounds.<br>Feel free to reach out: tkannan7122@gmail.com<br>
 
 
 # 💻 Tech Stack:
